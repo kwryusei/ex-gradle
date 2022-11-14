@@ -6,7 +6,7 @@ package jp.ac.uryukyu.ie.e225701;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class AppTest {
+class EnemyTest {
     @Test 
     void attackTest() {
     int defaultHeroHp = 100;
